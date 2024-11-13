@@ -507,7 +507,7 @@
     <string name="file_migration_failed_not_enough_space">More space needed</string>
     <string name="file_migration_failed_not_writable">Could not write to destination file</string>
     <string name="file_migration_failed_not_readable">Could not read source file</string>
-    <string name="file_migration_failed_dir_already_exists">Nextcloud folder already exists</string>
+    <string name="file_migration_failed_dir_already_exists">Folder already exists</string>
     <string name="file_migration_failed_while_coping">Failed during migration</string>
     <string name="file_migration_failed_while_updating_index">Failed to update index</string>
 
@@ -742,7 +742,7 @@
     <string name="sync_in_progress">Fetching most recent version of the file.</string>
 
     <string name="store_short_desc">The self-hosted productivity platform that keeps you in control</string>
-    <string name="store_full_desc">The self-hosted productivity platform that keeps you in control.\n\nFeatures:\n* Easy, modern interface, suited to the theme of your server\n* Upload files to your Nextcloud server\n* Share them with others\n* Keep your favorite files and folders synced\n* Search across all folders on your server\n* Auto Upload for photos and videos taken by your device\n* Keep up to date with notifications\n* Multi-account support\n* Secure access to your data with fingerprint or PIN\n* Integration with DAVx5 (formerly known as DAVdroid) for easy setup of calendar and contacts synchronization\n\nPlease report all issues at https://github.com/nextcloud/android/issues and discuss this app at https://help.nextcloud.com/c/clients/android\n\nNew to Nextcloud? Nextcloud is a private file sync and share and communication server. It is libre software, and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else.\n\nCheck out Nextcloud at https://nextcloud.com</string>
+    <string name="store_full_desc">The self-hosted productivity platform that keeps you in control.\n\nFeatures:\n* Easy, modern interface, suited to the theme of your server\n* Upload files to your FulliO server\n* Share them with others\n* Keep your favorite files and folders synced\n* Search across all folders on your server\n* Auto Upload for photos and videos taken by your device\n* Keep up to date with notifications\n* Multi-account support\n* Secure access to your data with fingerprint or PIN\n* Integration with DAVx5 (formerly known as DAVdroid) for easy setup of calendar and contacts synchronization\n\nPlease report all issues at https://github.com/fulliodotcom/fullioncandroid/issues\n\nNew to FulliO? FulliO is a private platform to build and execute on your Vision with project management, collaboration with chat, talk, video and screen sharing and more! It is libre software, and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else.\n\nCheck out FulliO at https://fullio.com</string>
 
     <string name="contactlist_item_icon">User icon for contact list</string>
     <string name="activity_icon">Activity</string>
@@ -896,7 +896,7 @@
     <string name="fab_label">Add or upload</string>
     <string name="account_creation_failed">Account creation failed</string>
     <string name="hidden_file_name_warning">Name will result in a hidden file</string>
-    <string name="single_sign_on_request_token" formatted="true">Allow %1$s to access your Nextcloud account %2$s?</string>
+    <string name="single_sign_on_request_token" formatted="true">Allow %1$s to access your FulliO account %2$s?</string>
     <string name="permission_deny">Deny</string>
     <string name="permission_allow">Allow</string>
     <string name="share_send_note">Note to recipient</string>
@@ -1218,9 +1218,9 @@
     <string name="image_editor_flip_vertical">Flip vertically</string>
     <string name="image_editor_unable_to_edit_image">Unable to edit image.</string>
     <string name="image_editor_file_edited_suffix">edited</string>
-    <string name="ecosystem_apps_notes">Nextcloud Notes</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
-    <string name="ecosystem_apps_more">More Nextcloud Apps</string>
+    <string name="ecosystem_apps_notes">Notes</string>
+    <string name="ecosystem_apps_talk">Talk</string>
+    <string name="ecosystem_apps_more">More Apps</string>
     <string name="ecosystem_apps_display_notes">Notes</string>
     <string name="ecosystem_apps_display_talk">Talk</string>
     <string name="ecosystem_apps_display_more">More</string>
