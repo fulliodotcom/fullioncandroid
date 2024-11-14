@@ -23,14 +23,14 @@
     <string name="db_name">nextcloud</string>
     <string name="data_folder">nextcloud</string>
     <string name="default_display_name_for_root_folder">Nextcloud</string>
-    <string name="nextcloud_user_agent">Mozilla/5.0 (Android) Nextcloud-android/%1$s%2$s</string>
-    <string name="only_office_user_agent">Mozilla/5.0 (Android %1$s) Mobile Nextcloud-android/%2$s</string>
+    <string name="nextcloud_user_agent">Mozilla/5.0 (Android) FulliO-android/%1$s%2$s</string>
+    <string name="only_office_user_agent">Mozilla/5.0 (Android %1$s) Mobile FulliO-android/%2$s</string>
     <string name="name_for_branded_user_agent"></string>
 
     <!-- URLs and flags related -->
     <bool name="show_server_url_input">true</bool>
     <bool name="show_provider_or_own_installation">true</bool>
-    <string name="provider_registration_server">https://www.nextcloud.com/register</string>
+    <string name="provider_registration_server">https://call.fullio.com/apps/registration</string>
 
     <!-- specify built in proxy -->
     <string name="proxy_host"></string>
@@ -78,14 +78,14 @@
     <bool name="show_hidden_files_enabled">true</bool>
     <bool name="davdroid_integration_enabled">true</bool>
     <bool name="help_enabled">true</bool>
-    <string name="url_help">https://help.nextcloud.com/c/clients/android/</string>
+    <string name="url_help">https://github.com/fulliodotcom/fullioncandroid</string>
     <bool name="privacy_enabled">true</bool>
-    <string name="privacy_url">https://nextcloud.com/privacy</string>
+    <string name="privacy_url">https://fullio.com/privacy</string>
     <bool name="imprint_enabled">false</bool>
     <bool name="recommend_enabled">true</bool>
     <bool name="logger_enabled">false</bool>
     <bool name="sourcecode_enabled">true</bool>
-    <string name="sourcecode_url" translatable="false">https://github.com/nextcloud/android</string>
+    <string name="sourcecode_url" translatable="false">https://github.com/fulliodotcom/fullioncandroid</string>
     <bool name="license_enabled">true</bool>
     <string name="license_url" translatable="false">https://www.gnu.org/licenses/gpl-2.0.html</string>
     <string name="url_imprint"></string>
